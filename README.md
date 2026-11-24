@@ -39,7 +39,7 @@ Download the latest version: https://github.com/jeremdo95/WolfAmongUsAccess/rele
 ## Installing
 
 1. Close the game.
-2. Unzip WolfAccess-1.2.zip somewhere other than the game folder, for example on the Desktop. Windows' "Extract All" puts its content in a new folder, WolfAccess-1.2: do not extract it into the game folder, or the mod ends up one folder too deep and does not load.
+2. Unzip WolfAccess-1.3.zip somewhere other than the game folder, for example on the Desktop. Windows' "Extract All" puts its content in a new folder, WolfAccess-1.3: do not extract it into the game folder, or the mod ends up one folder too deep and does not load.
 3. Open the extracted folder. Select its two folders, Archives and WolfAccess, and copy them (Ctrl+C).
 4. Open the game folder. In Steam: right-click the game, Manage, Browse local files. It is usually C:\Program Files (x86)\Steam\steamapps\common\The Wolf Among Us Remastered.
 5. Paste (Ctrl+V). Windows asks whether to merge the Archives folder with the game's own: say yes. No game file is replaced.
@@ -54,8 +54,9 @@ Updating from an older version: follow the same steps. When Windows says the fil
 
 ## Language
 
-- The mod speaks French when the game is set to French, Polish when it is set to Polish, and English for every other language.
+- The mod speaks French when the game is set to French, Spanish when it is set to Spanish (with the names of the Spanish game: Lupo, Blanca, Sapo...), German when it is set to German, Italian when it is set to Italian (with the names of the Italian game: Luca, Bianca, Rospo...), Polish when it is set to Polish, Russian when the Russian fan translation is installed and the game is set to English, and English otherwise.
 - Polish needs the Polish fan translation of the game (it adds "Polski" to the game's languages). The mod uses the names of that translation.
+- Russian needs the Russian fan translation by Tolma4 Team (its file `_resdesc_50_Russian.lua` in the game's Archives folder). That translation replaces the English texts, so keep the game set to English. The mod uses the names of that translation. Your screen reader needs a Russian voice (NVDA's eSpeak NG has one).
 - Change the game's language in its settings menu: the mod follows at once.
 
 ## Settings keys
